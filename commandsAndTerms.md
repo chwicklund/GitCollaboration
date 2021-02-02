@@ -1,3 +1,4 @@
+## Commands and Terms
 
 #### Pull: 
 To download content from a remote repository for editing/storage. 
