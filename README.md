@@ -3,7 +3,7 @@
 This is an assignment meant to explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company. 
 Below are the various sections:
 
-[]()
+[GitHub, Docker, and Automated Testing](gitDocker.md)
 
 [GitFlow Workflow](gitFlow.md)
 
